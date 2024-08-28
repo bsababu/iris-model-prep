@@ -9,7 +9,7 @@ This Model was created using PyTorch, and is based on the IRIS dataset. It is bu
     - pytorch' dataloader
 2. Model selection and training: 
     - Model selection: A neural network with one hidden layer
-    - Trianing: CrossEntropyLoss and the Adam optimizer for different numbers of epochs ( we picked above 100)
+    - Trianing: CrossEntropyLoss and the Adam optimizer for different numbers of epochs ( we picked above 10)
 3. Model evaluation and Visualization:
     - Model evaluation: Calculated Accuracy
     - Visualization: confusion matrix.
